@@ -2,8 +2,10 @@
 
 A classic Hangman game with a graphical interface built using Python and Tkinter. Guess letters to reveal the hidden word before the hangman is fully drawn!
 
-Hangman Game Screenshot
-(![image](https://github.com/user-attachments/assets/7af10015-9988-45ee-9707-023616aac3ea)
+Hangman Game Screenshot:
+
+
+![image](https://github.com/user-attachments/assets/7af10015-9988-45ee-9707-023616aac3ea)
 
 ## ✨ Features
 - **GUI Interface**: Play with clickable letter buttons
