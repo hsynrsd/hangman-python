@@ -4,7 +4,6 @@ A classic Hangman game with a graphical interface built using Python and Tkinter
 
 Hangman Game Screenshot:
 
-
 ![image](https://github.com/user-attachments/assets/7af10015-9988-45ee-9707-023616aac3ea)
 
 ## ✨ Features
@@ -31,7 +30,8 @@ Hangman Game Screenshot:
 
 - **Custom Word Bank**: Allow users to add their own words.
 
-Dark Mode: Add a toggle for a dark theme.
+ - **Dark Mode**: Add a toggle for a dark theme.
+
 ## 🛠️ Requirements
 - Python 3.x
 - Tkinter (usually comes with Python)
