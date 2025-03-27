@@ -16,6 +16,22 @@ Hangman Game Screenshot:
 - **Win/Lose Detection**: Instant pop-up messages for game outcomes
 - **Restart Option**: Play again with a new random word
 
+## Future Improvements
+- **Word Categories**: Allow players to choose from different word themes (e.g., Animals, Countries, Movies).
+
+- **Multiplayer Mode**: Let one player input a word while the other guesses.
+
+- **Hint System**: Provide optional hints for difficult words.
+
+- **Score Tracking**: Keep track of wins/losses and display a leaderboard.
+
+- **Better Graphics**: Replace ASCII hangman with a proper Tkinter-drawn figure.
+
+- **Sound Effects**: Add sound for correct/incorrect guesses and game outcomes.
+
+- **Custom Word Bank**: Allow users to add their own words.
+
+Dark Mode: Add a toggle for a dark theme.
 ## 🛠️ Requirements
 - Python 3.x
 - Tkinter (usually comes with Python)
